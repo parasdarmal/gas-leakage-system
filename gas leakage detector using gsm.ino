@@ -1,5 +1,4 @@
-/*Please subscribe Technolab creation
-youtube.com/c/Tecnolabcreation*/
+
 int redbulb = 13;
 int greenbulb = 11;
 int buzzer = 10;
